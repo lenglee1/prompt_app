@@ -2,5 +2,5 @@
 
 APIs used
 
-app.py - openAI API
-anthropic_app.py - Anthropic
+* app.py - OpenAI 
+* anthropic_app.py - Anthropic
